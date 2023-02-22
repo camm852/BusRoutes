@@ -22,7 +22,7 @@ Install dependencies of the project and run it.
 
 ```bash
   npm ci
-  npm run
+  npm run dev
 ```
 
 ![inicio](https://res.cloudinary.com/daboamwpv/image/upload/v1676691771/Captura_de_pantalla_2023-02-17_224040_gsntvt.jpg)
